@@ -1,4 +1,4 @@
-name: electrum
+name: electrum-lw
 version: master
 summary: Bitcoin thin client
 description: |
